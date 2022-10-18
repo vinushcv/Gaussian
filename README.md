@@ -21,6 +21,7 @@ End the program.
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: vinushcv
 RegisterNumber: 22001897
+
 */
 import sys
 n = int(input())
